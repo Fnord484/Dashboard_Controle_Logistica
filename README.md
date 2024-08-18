@@ -8,7 +8,7 @@ O setor de Logística da empresa, com foco na logística de transporte dos produ
 - Foi desenvolvido um dashbord agrupando as informações a marca dos veículos de transporte e as marcações de tempo.
 
 ### 2.1 Imagem do Dashboard
-![Imagem_Dashboard].(assets/Dashboard_Controle_Logistica.jpg)
+![Imagem_Dashboard](assets/Dashboard_Controle_Logistica.jpg)
 
 ## 3. Tecnologias usadas
 - **Excel:** Recebimento da base de dados original
