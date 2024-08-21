@@ -11,12 +11,12 @@ O setor de Logística da empresa, com foco na logística de transporte dos produ
 ![Imagem_Dashboard](assets/Dashboard_Controle_Logistica.jpg)
 
 ## 3. Tecnologias usadas
-- **Excel:** Recebimento da base de dados original
-- **Power BI:** Tratamento de dados, construção de tabelas métricas e dashboard
+- **Excel:** Recebimento da base de dados original;
+- **Power BI:** Tratamento de dados, construção de tabelas métricas e dashboard.
 
 ## 4. Como executar o projeto
-- Acesse o arquivo "Controle_Logística.pbix
-- Utilize os filtros e gráfico interativos para visualização das métricas
+- Acesse o arquivo "Controle_Logística.pbix";
+- Utilize os filtros e gráfico interativos para visualização das métricas.
 
 ## 5. Top 3 Insights de dados
     Considerando o período de janeiro de 2018 até dezembro de 2019.
@@ -28,5 +28,5 @@ O setor de Logística da empresa, com foco na logística de transporte dos produ
   - Sugestão: Avaliar o comparativo de crescimento total da empresa da empresa nos outros setores e as correlações.
 
 ## 6. Próximos Passos
-1. Automatização do dashboard após novo recebimento de dados
-2. Realizar uma análise diagnóstica para estudo dos insights sugeridos no item 5
+1. Automatização do dashboard após novo recebimento de dados.
+2. Realizar uma análise diagnóstica para estudo dos insights sugeridos no item 5.
